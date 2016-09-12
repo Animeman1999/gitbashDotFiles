@@ -1,7 +1,5 @@
-#Bash profile to change the default terminal prompt and add some git information.
+﻿#Bash profile to change the default terminal prompt and add some git information.
 #David Barnes
-
-
 
 
 if [ -f ~/.bashrc ]; then
